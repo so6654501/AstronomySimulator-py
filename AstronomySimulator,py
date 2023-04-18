@@ -1,0 +1,10 @@
+#include <iostream>
+#include <string>
+#include <vector>
+
+using namespace std;
+
+int main() {
+    // Здесь код программы для симуляции космических событий
+    return 0;
+}
